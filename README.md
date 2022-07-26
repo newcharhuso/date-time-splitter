@@ -3,6 +3,7 @@ This program splits the clock, minute and weekday attributes from a datetime obj
 
 
 Input file
+
 ![image](https://user-images.githubusercontent.com/83580410/181024198-98db362e-95e3-4abb-95ba-5c29bbfde9ca.png)
 
 Output file:
