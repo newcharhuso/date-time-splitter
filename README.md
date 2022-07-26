@@ -10,6 +10,6 @@ Output file:
 
 ![image](https://user-images.githubusercontent.com/83580410/181024443-a0914a18-f48d-40f4-bbf6-cf2e0a6b8146.png)
 
-With this you can track the production speed over time as shown in the graph below:
+With this you can track the production speed(or any other value) over time as shown in the graph below:
 
 ![image](https://user-images.githubusercontent.com/83580410/181024781-8beb0f92-680b-4eb6-bb46-1450e61d21a4.png)
